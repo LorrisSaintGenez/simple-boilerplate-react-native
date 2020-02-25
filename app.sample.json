@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "XXX",
+    "slug": "XXX",
+    "privacy": "XXX",
+    "sdkVersion": "XXX",
+    "platforms": "XXX",
+    "version": "XXX",
+    "orientation": "XXX",
+    "icon": "XXX",
+    "splash": {
+      "image": "XXX",
+      "resizeMode": "XXX",
+      "backgroundColor": "XXX"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["XXX"],
+    "android": {
+      "package": "XXX",
+      "googleServicesFile": "XXX"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "XXX",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "XXX"
+        }
+      }
+    },
+    "description": "XXX",
+    "extra": {
+      "androidClientId": "XXX",
+      "iosClientId": "XXX"
+    }
+  }
+}
